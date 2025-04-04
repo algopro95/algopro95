@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ubaidillah Al Chanani
-- 👀 I’m interested in Coding so much
-- 🌱 I’m currently learning Golang and Flutter
-- 💞️ I’m looking to collaborate on development system
-- 📫 How to reach me ...
+ Hi, I’m Ubaidillah Al Chanani!
+💻 Passionate Fullstack Developer | Laravel | Vue.js | Django | Flutter
 
-<!---
-algopro95/algopro95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I have a deep passion for coding and love building scalable and efficient systems.
+🌱 Currently, I’m expanding my skills in Golang and NoSql to enhance my development expertise.
+💡 As a Laravel and Vue.js enthusiast, I specialize in crafting robust web applications with clean and maintainable code.
+🤝 I'm open to collaboration on exciting development projects that push innovation forward.
+
+📫 Let’s connect! Feel free to reach out if you have an interesting project or just want to discuss tech!
